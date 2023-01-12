@@ -1,0 +1,8 @@
+Usage
+===========
+
+Put inside this file all details needed for utilizing your project. For example:
+
+> Connect to the power source and watch the LED blink!
+> Use the Test.ino source code to control the rate of blinking.
+

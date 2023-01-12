@@ -1,0 +1,20 @@
+Building my project
+========================
+
+You can put in this file detailed instructions for the construction of the hardware that you have developed. We recommend you to break those instructions into steps such as the following example:
+
+Step 1 - Unpacking
+========================
+
+Take all the components out of the bags and put them on the table. Check the file 'bom.txt' in order to make sure your list is complete and everything is in order.
+
+Step 2 - Connecting
+===================
+
+Connect a resistor and a 330 Ohm LED in series to the breadboard.
+Then connect the pin 13 of the Arduino UNO to the resistor.
+
+Step 3 - Building the Code
+===============================
+
+Connect your Arduino to the PC and open Sketch which is on the folder src/Test/Test.ino. Upload the file to your Arduino.
