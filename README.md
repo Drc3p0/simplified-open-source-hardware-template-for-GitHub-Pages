@@ -1,16 +1,19 @@
 Open Hardware Project Template
 =======================================================
+This branch (Pages-example) serves as a template/demonstration for using GitHub Pages to build your custom site.  You can learn more about GitHub Pages through the [GitHub Pages user guides](https://docs.github.com/en/pages). 
 
-This repository serves as an example template to help you create great documentation for your Open Hardware projects.  It contains examples of the recommended files and filestructure that is commonly shared in open source hardware projects. Sharing all of these resources is optional, so please fill out everything you can, and delete the files you aren't using. 
+*ToDo: implement Jekyll theme and format all files for Page layout. https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll 
+
+This repository serves as an example template to help you create great documentation for your Open Hardware projects by using GitHub Pages.  It contains examples of the recommended files and filestructure that is commonly shared in open source hardware projects. Sharing all of these resources is optional, so please fill out everything you can, and delete the files you aren't using. 
 
 You can use this template and replace all of the files/text with your own documents.  
-Here are a few examples of great documentation.  
+Here are a few examples of great GitHub Pages.  
 
-- [Infinite Noise TRNG (True Random Number Generator)](https://github.com/leetronics/infnoise)
-- [TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)
-- [USB Armory](https://github.com/usbarmory/usbarmory)
+- [Pixie Chroma open source documentation](https://github.com/connornishijima/Pixie_Chroma)  
+- [Slime VR how-to documentation](https://docs.slimevr.dev/)  
+- [MNT Reform open source documentation](https://source.mnt.re/reform/reform)  
 
-The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' documentation published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
+The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
 
 
 You can also learn more about open source documentation through the [GitHub Open Source Guides](https://opensource.guide/)
